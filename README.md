@@ -1,4 +1,4 @@
-# 🍽 Foodfy
+# Foodfy
 
 O site Foodfy é um projeto do bootcamp Launch Base da RocketSeat, cujo objetivo é desenvolver um site de receitas
 conforme o design apresentado. 
@@ -26,5 +26,8 @@ O site é composto por 3 páginas:
 - HTML
 - CSS
 - JavaScript
-
 ---
+
+<p align= center>
+🐱‍👤 Desenvolvido por <strong>Joyce Querubino</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/joyce-querubino/"target="_blank">Linkedin</a>
+</p>
