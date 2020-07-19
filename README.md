@@ -1,13 +1,13 @@
 # Foodfy
 
-O site Foodfy é um projeto do bootcamp Launch Base da RocketSeat, cujo objetivo é desenvolver um site de receitas
+O site Foodfy é um projeto do bootcamp Launch Base da **[RocketSeat](https://rocketseat.com.br/)**, cujo objetivo é desenvolver um site de receitas
 conforme o design apresentado. 
 
 Em sua versão inicial, o site deve apresentar quando selecionada a receita apenas um card com o nome da receita e autor. 
 Porém em sua versão final serão adicionados os artigos através do Back-and desenvolvido com Node.js. 
 
 <h1 align = center>
-    <img src="public/Foodfy.gif">
+    <img src="public/Foodfy2.gif">
 </h1>
 
 ## 📚 Páginas 
