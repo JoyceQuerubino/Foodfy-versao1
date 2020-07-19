@@ -1,7 +1,7 @@
 # Foodfy
 
 
-<h1 align = center>
+<h1 align = center style = box-shadow: 10px 5px 5px black>
     <img src="public/Foodfy.gif">
 </h1>
 
