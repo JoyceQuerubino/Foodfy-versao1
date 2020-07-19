@@ -1,26 +1,27 @@
-<h1 align = center style="color: blue">
-    Foodfy
-</h1>
+# 🍽 Foodfy
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+O site Foodfy é um projeto do bootcamp Launch Base da RocketSeat, cujo objetivo é desenvolver um site de receitas
+conforme o design apresentado. 
 
+Em sua versão inicial, o site deve apresentar quando selecionada a receita apenas um card com o nome da receita e autor. 
+Porém em sua versão final serão adicionados os artigos através do Back-and desenvolvido com Node.js. 
 
-<h1 align = center style = "box-shadow: 10px 5px 5px black">
+<h1 align = center>
     <img src="public/Foodfy.gif">
 </h1>
 
-## Páginas 
+## 📚 Páginas 
 
 O site é composto por 3 páginas: 
-- **Home:**
-- **Sobre:**
-- **Receitas:**
+- **Home:** Apresentando através de cards ilustrativos as receitas mais acessadas;
+- **Sobre:** Que contém algumas informações sobre o site;
+- **Receitas:** Que exibe todas as receitas do site através de cards e após selecionadas mostra uma div maior com um modal escuro. 
 
 <h1 align = center>
     <img src="public/Conjunto.png">
 </h1>
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 - HTML
 - CSS
