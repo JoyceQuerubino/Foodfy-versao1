@@ -1,8 +1,6 @@
-<h1 align = center style = "color: ##F8DBDB">
+<h1 align = center style="color: blue">
     Foodfy
 </h1>
-
-# Foodfy
 
 
 <h1 align = center; style = "box-shadow: 10px 5px 5px black">
